@@ -1,0 +1,94 @@
+.container-login {
+    display: flex;
+    outline: none;
+    padding: 32px 48px;
+    position: relative;
+
+    align-items: center;
+    border-radius: 8px;
+    flex-direction: column;
+    background-color: #ffffff;
+    margin: 0;
+}
+
+.close-login {
+    position: relative;
+    left: 170px;
+    top: -10px;
+}
+.main-login {
+}
+
+.main-login-title {
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 22px;
+}
+
+.main-login-button {
+    color: rgb(26, 32, 44);
+    width: 100%;
+    border: 1px solid rgb(160, 174, 192);
+    margin-top: 20px;
+    padding: 12px 25px;
+    min-height: 20px;
+    border-radius: 8px;
+    text-transform: none;
+    background-color: rgb(255, 255, 255);
+    max-width: 280px;
+    cursor: pointer;
+}
+.text-fb-gg {
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 20px;
+    margin-left: 10px;
+    position: relative;
+    bottom: 1px;
+}
+
+.main-login-input {
+    color: rgb(26, 32, 44);
+    width: 100%;
+    border: 1px solid rgb(160, 174, 192);
+    padding: 12px 25px;
+    min-height: 20px;
+    border-radius: 8px;
+    text-transform: none;
+    background-color: rgb(255, 255, 255);
+    background-color: rgb(237, 242, 247);
+    max-width: 280px;
+    border: none;
+    font-size: 16px;
+}
+
+.main-login-input:focus-visible {
+    outline: none;
+}
+.Login {
+    background-color: rgb(255, 51, 102);
+    cursor: pointer;
+}
+.text-login {
+    color: rgb(253, 253, 253);
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.khoiphucMk {
+    color: rgb(0, 182, 243);
+    width: fit-content;
+    border: none;
+    height: 17px;
+    margin: 0px;
+    padding: 4px;
+    font-size: 14px;
+    min-height: 20px;
+    font-weight: normal;
+    border-radius: 4px;
+    text-transform: none;
+    background-color: initial;
+}
+.dky {
+    color: rgb(0, 0, 0);
+}
